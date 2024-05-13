@@ -12,7 +12,7 @@ SOFTWARE: - ARDUINO IDE 1.8.19
 
 PROGRAMMING LANGUAGE: - C++
 
-CONNECTIONS: - LED (R+) TO ARDUINO PIN 13<br>
-               LED (G+) TO ARDUINO PIN 11<br>
-               LED (B+) TO ARDUINO PIN 12<br>
+CONNECTIONS: - LED (R+) TO ARDUINO PIN 13
+               LED (G+) TO ARDUINO PIN 11
+               LED (B+) TO ARDUINO PIN 12
                LED (-) TO ARDUINO GND
